@@ -29,12 +29,12 @@ Typically solutions include a server component, which sends out the management c
 In some cases, a single vendor provides both the client and the server, while in other cases the client and server come from different sources.
 ---
 ###### BYOD
-![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
+![TERMINAL](https://www.webroot.com/shared/images/mobileDeviceManagement.png)
 There are many tangible benefits of BYOD (Bring Your Own Device), including:
   * Reduced equipment costs
-	* Increased employee satisfaction and efficiency
-	*	Decreased IT staff burden (since employees maintain their own equipment)
-	* Reduced office space square footage (as workers are mostly off-site)
+  * Increased employee satisfaction and efficiency
+  * Decreased IT staff burden (since employees maintain their own equipment)
+  * Reduced office space square footage (as workers are mostly off-site)
 
 ---
 ###### Corporate owned, personally enabled (COPE)
