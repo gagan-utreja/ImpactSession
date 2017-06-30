@@ -13,19 +13,32 @@
 ###### What is MDM
 Mobile device management (MDM) is an industry term for the administration of mobile devices, such as smartphones, tablet computers, laptops and desktop computers. MDM is usually implemented with the use of a third party product that has management features for particular vendors of mobile devices.
 ---
+###### Overview of the MDM
+* MDM is a way to ensure employees stay productive and do not breach corporate policies. Many organizations control activities of their employees using MDM products/services. 
+* MDM primarily deals securing emails, securing corporate documents on devices, enforcing corporate policies, integrating and managing mobile devices including laptops and handhelds of various categories. 
+* MDM implementations may be either on-premises or cloud-based.
+---
 ###### Purpose of the MDM
 Mobile Device Management for
 * Security
 * Monitoring and Managing mobile devices
 * Enforce the company policies strictly
 ---
-###### Overview of the MDM
-MDM is a way to ensure employees stay productive and do not breach corporate policies. Many organizations control activities of their employees using MDM products/services. MDM primarily deals securing emails, securing corporate documents on devices, enforcing corporate policies, integrating and managing mobile devices including laptops and handhelds of various categories. 
-MDM implementations may be either on-premises or cloud-based.
----
 ###### Implementation
 Typically solutions include a server component, which sends out the management commands to the mobile devices, and a client component, which runs on the managed device and receives and implements the management commands. 
 In some cases, a single vendor provides both the client and the server, while in other cases the client and server come from different sources.
+---
+###### BYOD
+![TERMINAL](https://d1z75bzl1vljy2.cloudfront.net/hello-world/terminal.png)
+There are many tangible benefits of BYOD (Bring Your Own Device), including:
+  * Reduced equipment costs
+	* Increased employee satisfaction and efficiency
+	*	Decreased IT staff burden (since employees maintain their own equipment)
+	* Reduced office space square footage (as workers are mostly off-site)
+
+---
+###### Corporate owned, personally enabled (COPE)
+* As part of enterprise mobility, an alternative approach are corporate owned, personally enabled devices (COPE).
 ---
 ###### What is KNOX
 - Samsung Knox is an enterprise mobile security solution.
