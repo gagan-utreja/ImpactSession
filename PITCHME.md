@@ -56,3 +56,4 @@ In some cases, a single vendor provides both the client and the server, while in
 
 - You can customise a device for a kiosk, by providing access to only one or a few apps and restricting access to the underlying Android system.
 ---
+THANK YOU
