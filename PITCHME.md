@@ -30,7 +30,7 @@ In some cases, a single vendor provides both the client and the server, while in
 ---
 ###### BYOD
 ![TERMINAL](https://www.webroot.com/shared/images/mobileDeviceManagement.png)
-There are many tangible benefits of BYOD (Bring Your Own Device), including:
+
   * Reduced equipment costs
   * Increased employee satisfaction and efficiency
   * Decreased IT staff burden (since employees maintain their own equipment)
