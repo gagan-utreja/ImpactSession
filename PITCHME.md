@@ -37,6 +37,9 @@ In some cases, a single vendor provides both the client and the server, while in
   * Reduced office space square footage (as workers are mostly off-site)
 
 ---
+###### Personally owned, company enabled (POCE)
+A personally owned device is any technology device that was purchased by an individual and was not issued by the agency. A personal device includes any portable technology like camera, USB flash drives, mobile wireless devices, tablets, laptops or any personal desktop computer.
+---
 ###### Corporate owned, personally enabled (COPE)
 * As part of enterprise mobility, an alternative approach are corporate owned, personally enabled devices (COPE).
 ---
