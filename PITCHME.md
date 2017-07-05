@@ -15,7 +15,7 @@ Mobile device management (MDM) is an industry term for the administration of mob
 ---
 ###### Overview of the MDM
 * MDM is a way to ensure employees stay productive and do not breach corporate policies. Many organizations control activities of their employees using MDM products/services. 
-* MDM primarily deals securing emails, securing corporate documents on devices, enforcing corporate policies, integrating and managing mobile devices including laptops and handhelds of various categories. 
+* MDM primarily deals securing emails, securing corporate documents on devices, integrating and managing mobile devices including laptops and handhelds of various categories.
 * MDM implementations may be either on-premises or cloud-based.
 ---
 ###### Purpose of the MDM
@@ -26,15 +26,12 @@ Mobile Device Management for
 ---
 ###### Implementation
 Typically solutions include a server component, which sends out the management commands to the mobile devices, and a client component, which runs on the managed device and receives and implements the management commands. 
-In some cases, a single vendor provides both the client and the server, while in other cases the client and server come from different sources.
 ---
 ###### BYOD
 ![TERMINAL](https://www.webroot.com/shared/images/mobileDeviceManagement.png)
-
   * Reduced equipment costs
   * Increased employee satisfaction and efficiency
   * Decreased IT staff burden (since employees maintain their own equipment)
-  * Reduced office space square footage (as workers are mostly off-site)
 
 ---
 ###### Personally owned, company enabled (POCE)
