@@ -6,8 +6,6 @@
 * SAFE Devices/KNOX Standard SDK
 * KNOX Premium SDK
 * KIOSK Mode
-* KNOX Demo
-* KIOSK Demo
 
 ---
 ###### What is MDM
